@@ -9,5 +9,6 @@ def primenumber(z):
         return False
 
 #primenumber(110)
+#Note that this is a subset of the Q3. Has no connection with Q1. 
 
 
